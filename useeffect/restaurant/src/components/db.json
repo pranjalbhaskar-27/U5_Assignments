@@ -1,0 +1,114 @@
+{
+  "meals": [
+    {
+      "strMeal": "Baingan Bharta",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+      "category": "Indian",
+      "price": "140",
+      "payment": "C",
+      "rating": "4.5",
+      "votes": "452",
+      "reviews": "212"
+    },
+    {
+      "strMeal": "Chicken Handi",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+      "category": "Indian",
+      "price": "140",
+      "payment": "C",
+      "rating": "3.5",
+      "votes": "452",
+      "reviews": "212"
+    },
+    {
+      "strMeal": "Dal fry",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+      "category": "Indian",
+      "price": "140",
+      "payment": "C",
+      "rating": "2.5",
+      "votes": "452",
+      "reviews": "212"
+    },
+    {
+      "strMeal": "Kidney Bean Curry",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+      "category": "Indian",
+      "price": "140",
+      "payment": "C",
+      "rating": "1.5",
+      "votes": "452",
+      "reviews": "212"
+    },
+    {
+      "strMeal": "Lamb Biryani",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+      "category": "Indian",
+      "price": "140",
+      "payment": "C",
+      "rating": "2.5",
+      "votes": "452",
+      "reviews": "212"
+    },
+    {
+      "strMeal": "Lamb Rogan josh",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+      "category": "Indian",
+      "price": "140",
+      "payment": "C",
+      "rating": "4.3",
+      "votes": "452",
+      "reviews": "212"
+    },
+    {
+      "strMeal": "Matar Paneer",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+      "category": "Indian",
+      "price": "140",
+      "payment": "C",
+      "rating": "4.7",
+      "votes": "452",
+      "reviews": "212"
+    },
+    {
+      "strMeal": "Nutty Chicken Curry",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
+      "category": "Indian",
+      "price": "140",
+      "payment": "C",
+      "rating": "4.1",
+      "votes": "452",
+      "reviews": "212"
+    },
+    {
+      "strMeal": "Recheado Masala Fish",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+      "category": "Indian",
+      "price": "140",
+      "payment": "C",
+      "rating": "2.5",
+      "votes": "452",
+      "reviews": "212"
+    },
+    {
+      "strMeal": "Smoked Haddock Kedgeree",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
+      "category": "Indian",
+      "price": "140",
+      "payment": "C",
+      "rating": "2.8",
+      "votes": "452",
+      "reviews": "212"
+    },
+    {
+      "strMeal": "Tandoori chicken",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+      "category": "Indian",
+      "price": "140",
+      "payment": "C",
+      "rating": "3.7",
+      "votes": "452",
+      "reviews": "212"
+    }
+  ]
+}

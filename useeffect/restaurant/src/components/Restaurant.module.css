@@ -1,0 +1,26 @@
+.container {
+    display: grid;
+    width: 80%;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    margin: auto;
+  }
+  
+  .prevNext {
+    margin: auto;
+    margin-top: 35px;
+    display: flex;
+    gap: 20px;
+    width: 200.50px;
+    justify-content: center;
+  }
+
+  .btns {
+    margin: auto;
+    width: 690px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 15.75px;
+    height: 20.88px;
+    align-items: center;
+  }
